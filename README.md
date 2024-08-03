@@ -29,7 +29,7 @@
 <br/>
 
 # How to use
-1. Extract and copy the [Siemens.ExportImportV18.addin](https://support.industry.siemens.com/cs/attachments/109773999/109773999_TIAV18_Add-In_Export_Import_v100_App.zip) into the "AddIns" folder of your TIA Portal installation path. Per default, it is C:\Program Files\Siemens\Automation\Portal V18\AddIns\ .
+1. Extract and copy the [Siemens.ExportImportV18.addin](https://support.industry.siemens.com/cs/document/109773999/) into the "AddIns" folder of your TIA Portal installation path. Per default, it is C:\Program Files\Siemens\Automation\Portal V18\AddIns\ .
 2. Opening TIA Portal V18.
 3. Add a PLC in "Device and network".
 4. In "Add-Ins" panel, active the Siemens.ExportImportV18.addin.
