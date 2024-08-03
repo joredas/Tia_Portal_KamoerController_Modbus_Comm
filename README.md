@@ -8,7 +8,7 @@
 
 <h2> Network View </h2>
 <div align=center>
-    <img src="./DviceMap.png" height="500px"/>
+    <img src="/../shots/DeviceMap.png" height="500px"/>
 </div>
 
 <h2 id="1"> PLC Configuration </h2>
